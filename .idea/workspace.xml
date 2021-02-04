@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af9a3b4c-9c16-4116-ae4f-3df580d54093" name="Default Changelist" comment="webfolio v0.2.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/dd6a2b56d2dffe4c6406314167a8076a1b461d57/main.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/dd6a2b56d2dffe4c6406314167a8076a1b461d57/main.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AlienNT &lt;33194513+aliennt@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jqL5xaiSmSF12QmE2evt2ybZJa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webfolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af9a3b4c-9c16-4116-ae4f-3df580d54093" name="Default Changelist" comment="" />
+      <created>1604526495835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604526495835</updated>
+      <workItem from="1604526496913" duration="12536000" />
+      <workItem from="1605811557119" duration="17406000" />
+      <workItem from="1605864881016" duration="31248000" />
+      <workItem from="1605942374141" duration="20000" />
+      <workItem from="1606308059708" duration="173000" />
+      <workItem from="1606308249371" duration="421000" />
+      <workItem from="1606309005661" duration="10627000" />
+      <workItem from="1606345150175" duration="149000" />
+      <workItem from="1606345303799" duration="8904000" />
+      <workItem from="1606393570031" duration="10944000" />
+    </task>
+    <task id="LOCAL-00001" summary="webfolio v0.2.1">
+      <created>1606352368646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606352368646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="webfolio v0.2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="webfolio v0.2.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="298" key="EditFileWatcherDialog" timestamp="1604526571060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604526571060" />
+    <state x="1028" y="365" key="FileChooserDialogImpl" timestamp="1605942392682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1028" y="365" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605942392682" />
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1606394710270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710270" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1606394710270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710270" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1606394710270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710270" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1606394710270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710270" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1606394710270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710270" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.2.bottom" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.2.center" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.2.left" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.2.right" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.3.bottom" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.3.center" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.3.left" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state width="1899" height="347" key="GridCell.Tab.3.right" timestamp="1606394710271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606394710271" />
+    <state x="1015" y="258" key="IDE.errors.dialog" timestamp="1606346138921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1015" y="258" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606346138921" />
+    <state x="1161" y="225" key="RollbackChangesDialog" timestamp="1605812736239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1161" y="225" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605812736239" />
+    <state x="846" y="168" key="SettingsEditor" timestamp="1606330869311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="846" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606330869311" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606352744160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606352744160" />
+    <state x="957" y="133" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606396792634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="957" y="133" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606396792634" />
+    <state x="1147" y="227" width="585" height="592" key="find.popup" timestamp="1605900997007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1147" y="227" width="585" height="592" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605900997007" />
+    <state x="1014" y="244" key="run.anything.popup" timestamp="1606395901841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1014" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606395901841" />
+    <state x="1103" y="230" key="search.everywhere.popup" timestamp="1606330792762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606330792762" />
+  </component>
+</project>
